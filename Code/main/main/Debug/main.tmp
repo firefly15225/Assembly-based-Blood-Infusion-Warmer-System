@@ -1,0 +1,73 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\Debug\main.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>main.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>main.map</FILE>
+  <FILE>main.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>9</LINE></main>
+  <LCD_init><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>185</LINE></LCD_init>
+  <ADC_start><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>446</LINE></ADC_start>
+  <map><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>466</LINE></map>
+  <val_to_digit><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>499</LINE></val_to_digit>
+  <lcd_write><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>113</LINE></lcd_write>
+  <comp><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>477</LINE></comp>
+  <loop><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>56</LINE></loop>
+  <delay_long><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>270</LINE></delay_long>
+  <ADC_display><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>71</LINE></ADC_display>
+  <Enter_key><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>86</LINE></Enter_key>
+  <digit_to_val><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>517</LINE></digit_to_val>
+  <init_keypad><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>282</LINE></init_keypad>
+  <command_wrt><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>205</LINE></command_wrt>
+  <delay_ms><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>263</LINE></delay_ms>
+  <data_wrt><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>226</LINE></data_wrt>
+  <delay_short><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>250</LINE></delay_short>
+  <delay_us><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>255</LINE></delay_us>
+  <l1><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>257</LINE></l1>
+  <l2><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>265</LINE></l2>
+  <l3><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>272</LINE></l3>
+  <wait_release><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>291</LINE></wait_release>
+  <wait_keypress><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>301</LINE></wait_keypress>
+  <row1_col><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>373</LINE></row1_col>
+  <row2_col><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>381</LINE></row2_col>
+  <row3_col><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>389</LINE></row3_col>
+  <row4_col><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>397</LINE></row4_col>
+  <Load_1><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>405</LINE></Load_1>
+  <Load_2><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>408</LINE></Load_2>
+  <Load_3><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>411</LINE></Load_3>
+  <Load_4><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>414</LINE></Load_4>
+  <Load_5><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>417</LINE></Load_5>
+  <Load_6><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>420</LINE></Load_6>
+  <Load_7><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>423</LINE></Load_7>
+  <Load_8><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>426</LINE></Load_8>
+  <Load_9><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>429</LINE></Load_9>
+  <Load_10><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>432</LINE></Load_10>
+  <Load_0><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>435</LINE></Load_0>
+  <Load_11><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>438</LINE></Load_11>
+  <wait_ADC><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>450</LINE></wait_ADC>
+  <ON><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>487</LINE></ON>
+  <OFF><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>491</LINE></OFF>
+  <div><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>504</LINE></div>
+  <return_digit><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>509</LINE></return_digit>
+  <multi><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>522</LINE></multi>
+  <return_val><FILE>C:\Users\vikum\OneDrive\Desktop\Temp controller\Code\main\main\main.asm</FILE><LINE>527</LINE></return_val>
+ </LABELS>
+</ASSEMBLER_INFO>
