@@ -15,3 +15,13 @@ This project presents an advanced blood infusion warmer system incorporating pre
 ---
 
 ## System Flow Chart
+![Full1 drawio](https://github.com/firefly15225/Assembly-based-Blood-Infusion-Warmer-System/assets/147505226/0864cc4b-9991-43f6-945b-c83e541e2ca1)
+
+---
+
+## Getting Start
+
+You can clone the project repository using Git. Run the following command:
+
+```bash
+git clone https://github.com/firefly15225/Assembly-based-Blood-Infusion-Warmer-System.git
